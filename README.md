@@ -1,3 +1,9 @@
+# About this fork 
+
+> Another profile card order and add flex support instead of table (better printable view...for me at least ;-))
+
+-----
+
 # Elegant Theme [![npm version](https://badge.fury.io/js/jsonresume-theme-elegant.svg)](http://badge.fury.io/js/jsonresume-theme-elegant)
 
 Responsive theme for [JsonResume](https://jsonresume.org/) inspired by card layouts.
