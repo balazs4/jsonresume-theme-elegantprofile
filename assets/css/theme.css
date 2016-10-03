@@ -532,10 +532,12 @@ body {
 @media (max-width: 768px) {
   .contact-details {
     text-align: center;
+    display: flex;
+    align-content: space-between;
+    justify-content: space-around;
   }
 }
 .contact-details .detail {
-  display: table;
   padding: 10px 0;
 }
 .contact-details .detail .icon {
@@ -563,6 +565,8 @@ body {
     min-height: 1px;
     padding-left: 15px;
     padding-right: 15px;
+    display: flex;
+    flex-direction: column;
   }
 }
 @media (max-width: 992px) {
