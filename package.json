@@ -1,6 +1,6 @@
 {
   "name": "jsonresume-theme-elegantprofile",
-  "version": "1.6.11",
+  "version": "1.6.12",
   "description": "Based on Elegant theme for jsonresume // Light modified profile card",
   "main": "index.js",
   "scripts": {
